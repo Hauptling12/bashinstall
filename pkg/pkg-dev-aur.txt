@@ -1,0 +1,3 @@
+sc-im
+cpufetch
+gpufetch-git
